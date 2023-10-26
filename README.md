@@ -1,0 +1,2 @@
+# VeriGate
+Digital KYC Solutions.
